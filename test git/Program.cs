@@ -14,6 +14,7 @@ namespace test_git
             Console.WriteLine("Yo what up!!!!");
             Console.WriteLine("Yo what up!!!!");
             Console.WriteLine("Yo what up!!!!");
+            Console.WriteLine("un autre test");
         }
     }
 }
