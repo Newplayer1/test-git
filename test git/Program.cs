@@ -12,6 +12,8 @@ namespace test_git
         {
             //test git
             Console.WriteLine("Yo what up!!!!");
+            Console.WriteLine("Yo what up!!!!");
+            Console.WriteLine("Yo what up!!!!");
         }
     }
 }
