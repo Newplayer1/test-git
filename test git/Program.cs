@@ -13,6 +13,13 @@ namespace test_git
             //test git
             Console.WriteLine("Yo what up!!!!");
             Console.WriteLine("Yo what up!!!!");
+
+            int nb;
+            Console.WriteLine("Choisissez un nombre");
+            nb = int.Parse(Console.ReadLine());
+            Console.WriteLine("Voici le nombre auquel je pensais" + nb);
+
+
             Console.WriteLine("Yo what up!!!!");
             Console.WriteLine("un autre test");
             //Waddup ici gab ptit con :)
