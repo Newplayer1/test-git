@@ -16,7 +16,7 @@ namespace test_git
             Console.WriteLine("Yo what up!!!!");
             Console.WriteLine("un autre test");
             //Waddup ici gab ptit con :)
-           // yoyoyoyoyoyoyooy yo soy a bush
+           // yoyoyoyoyoyoyooy yo soy a Georges bush
         }
     }
 }
